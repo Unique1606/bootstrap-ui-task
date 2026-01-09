@@ -77,7 +77,8 @@ Importance of layout consistency and spacing
 
 Time Taken
 
-Approximately 6–7 hours
+Approximately 1 hour , because I already have the experience in web development like this , so it taken me less time 
+
 
 Live Demo & Repository
 
@@ -88,3 +89,4 @@ Live Website: https://unique1606.github.io/bootstrap-ui-task/
 Final Note
 
 This task helped me gain hands-on experience with Bootstrap 5 and improved my confidence in frontend UI development.
+
