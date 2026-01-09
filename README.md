@@ -81,9 +81,9 @@ Approximately 6–7 hours
 
 Live Demo & Repository
 
-GitHub Repository: https://github.com/your-username/project-name
+GitHub Repository: https://github.com/Unique1606/bootstrap-ui-task
 
-Live Website: https://your-username.github.io/project-name
+Live Website: https://github.com/Unique1606/bootstrap-ui-task
 
 Final Note
 
