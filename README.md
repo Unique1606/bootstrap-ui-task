@@ -83,7 +83,7 @@ Live Demo & Repository
 
 GitHub Repository: https://github.com/Unique1606/bootstrap-ui-task
 
-Live Website: https://github.com/Unique1606/bootstrap-ui-task
+Live Website: https://unique1606.github.io/bootstrap-ui-task/
 
 Final Note
 
