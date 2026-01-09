@@ -1,0 +1,29 @@
+body {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+    background-color: #f4f6f8;
+}
+
+.navbar {
+    background-color: #1f2933;
+}
+
+.hero-section {
+    background: linear-gradient(135deg, #e3f2fd, #f8f9fa);
+    padding: 90px 0;
+}
+
+.hero-section h1 {
+    color: #1f2933;
+}
+
+.hero-section p {
+    color: #4b5563;
+}
+
+.card {
+    border-radius: 12px;
+}
+
+footer {
+    background-color: #1f2933;
+}
